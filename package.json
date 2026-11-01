@@ -1,0 +1,1 @@
+{ "name": "echelon-site", "private": true, "engines": { "node": ">=22" } }
